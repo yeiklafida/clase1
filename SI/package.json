@@ -1,0 +1,11 @@
+{
+  "name": "ejemplo-paquete",
+  "version": "1.0.0",
+  "description": "Este es mi primer paquete creado manualmemte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramirez Martinez Luis Enrique Aldair",
+  "license": "ISC"
+}

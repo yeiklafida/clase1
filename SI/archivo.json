@@ -1,0 +1,11 @@
+{
+    "Titulo":"El principito", 
+    "Autor": "Antonie de Saint",
+    "Edicion": 1943,
+    "Editorial": "Salamandra",
+    "Idioma Original": "Frances",
+    "Resumen": "Narra la historia de un piloto que mientras intenta reparar su avion averiado en medio del desierto del sahara, se topa con un pequeño principe del asteroide de B602 que le pide insistentemente le dibuje un cordero y que nunca olvide una pregunta",
+    "Colores": ["rojo", "azul", "morado", "verde"],
+    "Nombres": {"alumno1":"Yoltic", "alumno2":"Jesus", "alumno3":"Alexis"}
+    
+}
